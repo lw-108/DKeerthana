@@ -104,7 +104,7 @@ export const myProjects = [
   desc: 'Flappy Bird is a fast-paced arcade game where players navigate a bird through a series of obstacles. Built using HTML, CSS, and JavaScript, this project recreates the classic gameplay with smooth physics and responsive controls.',
   subdesc:
     'This version of Flappy Bird focuses on simplicity and performance, featuring realistic gravity, collision detection, and score tracking. Perfect for learning game development fundamentals using vanilla web technologies.',
-  href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+  href: 'https://keerthana-duraisamy.github.io/FlappyBird/',
   texture: '/textures/project/flappybird.mp4',
   logo: '/assets/flappykutty.png',
   logoStyle: {
