@@ -213,7 +213,7 @@ const About = () => {
                 width={260}
                 backgroundColor="rgba(0,0,0,0)"
                 showAtmosphere
-                globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
+                globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
               />
             </div>
             <div>
